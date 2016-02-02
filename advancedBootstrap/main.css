@@ -1,0 +1,13 @@
+body{
+    width:600px;
+    margin: auto;
+    padding:0px;
+}
+button {
+    background-color: #00b3ee;
+    color:white;
+    font-size: 24px;
+}
+a{
+    text-decoration: none;
+}
